@@ -11,6 +11,8 @@
 
 This dashboard project presents an exploratory data analysis of Uber ride data for 2016 using **Power BI**. It tracks core KPIs like **Total Bookings**, **Trip Distance**, and **Trip Purpose** across time, location, and category dimensions.
 
+---
+
 ### 🔧 Objectives
 - Understand user behavior trends across time and geography.
 - Reveal business insights to support decisions in operations and marketing.
@@ -71,8 +73,8 @@ Performed in **Power Query**:
 
 ## 📌 Report & Portfolio
 
-📎 [Full Report (PDF)](./Uber%20Data%20Analysis%20Report.pdf)  
-📊 [Portfolio Repository](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio)  
+📎 [Full Report (PDF)](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/Uber%20Data%20Analysis%20Report.pdf)  
+📊 [Portfolio](https://github.com/ReemSaeedMetwally)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reem-saeed-b34b00216/)
 
 ---
