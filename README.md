@@ -13,22 +13,19 @@ This dashboard project presents an exploratory data analysis of Uber ride data f
 
 ---
 
-### 🔧 Objectives
+## 🔍 Objectives
 - Understand user behavior trends across time and geography.
 - Reveal business insights to support decisions in operations and marketing.
 - Identify peak usage windows and key business trip patterns.
 
 ---
 
-## 📁 Data Cleaning & Transformation (ETL)
-
-Performed in **Power Query**:
-
-- ✅ Removed duplicates and corrected data types (`START_DATE`, `MILES`)
-- 🧩 Handled 49% missing values in `Purpose` column using fill-down
-- 📆 Extracted year, month, weekday, hour, time-of-day categories
-- 🔄 Converted trip distances to kilometers
-- ⏱️ Calculated trip duration
+## 🛠️ Skills and Tools
+- Skills: ETL with Power Query, Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Dashboard Design, Business Insight Extraction, KPI Reporting, Story-telling.
+- Tools:
+  * Power BI Desktop
+  * Power Query & DAX for data cleaning, ETL, modeling, and calculations
+  * Visual storytelling techniques for executive summaries
 
 ---
 
@@ -71,14 +68,21 @@ Performed in **Power Query**:
 
 ---
 
-## 📌 Report & Portfolio
+## 📌 Report
 
 📎 [Full Report (PDF)](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/Uber%20Data%20Analysis%20Report.pdf)  
-📊 [Portfolio](https://github.com/ReemSaeedMetwally)  
-🔗 [LinkedIn](https://www.linkedin.com/in/reem-saeed-b34b00216/)
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-> *(Add screenshots of your Power BI dashboard here — overview, time analysis, etc.)*
+### Overview Analysis
+![Overview](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Overview_1.PNG)
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Overview_2.PNG)
+
+### Time-Based Analysis
+![Time Analysis](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Time_Analysis_1.PNG)
+![](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Time_Analysis_2.PNG)
+
+### Details
+![Details](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/images/Details.PNG)
