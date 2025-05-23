@@ -68,7 +68,9 @@ This dashboard project presents an exploratory data analysis of Uber ride data f
 
 ---
 
-## 📌 Report
+## 📌 Dashboard & Report
+
+📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmU5YzZiZGUtYWZlYy00YzY3LWFiNDAtMDUzNGIxMDllNDY4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
 📎 [Full Report (PDF)](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard/blob/main/Uber%20Data%20Analysis%20Report.pdf)  
 
