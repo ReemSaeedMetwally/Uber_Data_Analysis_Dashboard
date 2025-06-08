@@ -1,15 +1,10 @@
 # 🚗 Uber Trip Analysis Dashboard
 
 
-**Author:** Reem Saeed Metwally  
-**Tools Used:** Power BI, Power Query  
-**Dataset:** [Kaggle – Uber Data 2016](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis)
-
----
 
 ## 📊 Project Summary
 
-This dashboard project presents an exploratory data analysis of Uber ride data for 2016 using **Power BI**. It tracks core KPIs like **Total Bookings**, **Trip Distance**, and **Trip Purpose** across time, location, and category dimensions.
+This dashboard project presents an exploratory data analysis of [Uber ride data](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis) for 2016 on Kaggle using **Power BI**. It tracks core KPIs, including **Total Bookings**, **Trip Distance**, and **Trip Purpose**, across time, location, and category dimensions.
 
 ---
 
